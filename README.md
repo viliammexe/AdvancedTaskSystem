@@ -1,4 +1,5 @@
 Advanced Task Management System (ATMS)
+
 Tento repozitár obsahuje jednoduchý, ale modulárny systém na správu úloh implementovaný v jazyku Python. Projekt slúži ako referenčná vzorka pre testovanie a benchmarking algoritmov na detekciu podobnosti zdrojového kódu (napr. Jaccardov index, Winnowing algoritmus).
 
 Architektúra systému
